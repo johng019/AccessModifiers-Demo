@@ -1,0 +1,8 @@
+C:\Users\Gary0958\Source\Repos\ConsoleUI\AccessDemo\obj\Debug\netcoreapp2.0\AccessDemo.csproj.CoreCompileInputs.cache
+C:\Users\Gary0958\Source\Repos\ConsoleUI\AccessDemo\obj\Debug\netcoreapp2.0\AccessDemo.AssemblyInfoInputs.cache
+C:\Users\Gary0958\Source\Repos\ConsoleUI\AccessDemo\obj\Debug\netcoreapp2.0\AccessDemo.AssemblyInfo.cs
+C:\Users\Gary0958\Source\Repos\ConsoleUI\AccessDemo\bin\Debug\netcoreapp2.0\AccessDemo.deps.json
+C:\Users\Gary0958\Source\Repos\ConsoleUI\AccessDemo\bin\Debug\netcoreapp2.0\AccessDemo.dll
+C:\Users\Gary0958\Source\Repos\ConsoleUI\AccessDemo\bin\Debug\netcoreapp2.0\AccessDemo.pdb
+C:\Users\Gary0958\Source\Repos\ConsoleUI\AccessDemo\obj\Debug\netcoreapp2.0\AccessDemo.dll
+C:\Users\Gary0958\Source\Repos\ConsoleUI\AccessDemo\obj\Debug\netcoreapp2.0\AccessDemo.pdb

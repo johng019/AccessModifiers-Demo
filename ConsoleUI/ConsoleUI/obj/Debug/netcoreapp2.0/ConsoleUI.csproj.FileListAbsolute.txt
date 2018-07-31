@@ -1,0 +1,14 @@
+C:\Users\Gary0958\Source\Repos\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp2.0\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\Gary0958\Source\Repos\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp2.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Gary0958\Source\Repos\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp2.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Gary0958\Source\Repos\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp2.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\Gary0958\Source\Repos\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp2.0\ConsoleUI.deps.json
+C:\Users\Gary0958\Source\Repos\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp2.0\ConsoleUI.runtimeconfig.json
+C:\Users\Gary0958\Source\Repos\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp2.0\ConsoleUI.runtimeconfig.dev.json
+C:\Users\Gary0958\Source\Repos\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp2.0\ConsoleUI.dll
+C:\Users\Gary0958\Source\Repos\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp2.0\ConsoleUI.pdb
+C:\Users\Gary0958\Source\Repos\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp2.0\AccessDemo.dll
+C:\Users\Gary0958\Source\Repos\ConsoleUI\ConsoleUI\bin\Debug\netcoreapp2.0\AccessDemo.pdb
+C:\Users\Gary0958\Source\Repos\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp2.0\ConsoleUI.csproj.CopyComplete
+C:\Users\Gary0958\Source\Repos\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp2.0\ConsoleUI.dll
+C:\Users\Gary0958\Source\Repos\ConsoleUI\ConsoleUI\obj\Debug\netcoreapp2.0\ConsoleUI.pdb
